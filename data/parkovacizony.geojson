@@ -1,0 +1,2840 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "id": "parkovacizony.63448588",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.35936217, 49.74725971],
+                [13.36175739, 49.74795157]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448590",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36175739, 49.74795157],
+                [13.36345339, 49.74844125]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448594",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36385573, 49.74852530],
+                [13.36461714, 49.74883172]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448592",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36345339, 49.74844125],
+                [13.36385573, 49.74852530]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448591",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36345339, 49.74844125],
+                [13.36375913, 49.74799920]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448593",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36385573, 49.74852530],
+                [13.36397537, 49.74804622]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448589",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36175739, 49.74795157],
+                [13.36208967, 49.74748877]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448586",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.35905313, 49.74717782],
+                [13.35936217, 49.74725971]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448587",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.35936217, 49.74725971],
+                [13.35969446, 49.74679691]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903653",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36687732, 49.74756721],
+                [13.36956777, 49.74761697]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903654",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36979151, 49.74760711],
+                [13.37148580, 49.74763843]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903658",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36965214, 49.74769435],
+                [13.36964545, 49.74805503],
+                [13.36966364, 49.74827469]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578710",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37165457, 49.74766738],
+                [13.37156696, 49.74779032],
+                [13.37143801, 49.74821950]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903640",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37162786, 49.74831399],
+                [13.37285127, 49.74825795]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578716",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37244212, 49.74996019],
+                [13.37358999, 49.74990512]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578713",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37358999, 49.74990512],
+                [13.37402739, 49.74996568]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578712",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37358999, 49.74990512],
+                [13.37372218, 49.74962160]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578715",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37415328, 49.74957250],
+                [13.37388589, 49.74960197],
+                [13.37372218, 49.74962160]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578714",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37372218, 49.74962160],
+                [13.37386399, 49.74931935],
+                [13.37363801, 49.74857749]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139897",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37502064, 49.74960440],
+                [13.37490962, 49.74919082],
+                [13.37473720, 49.74858331]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139884",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37584850, 49.74909278],
+                [13.37597118, 49.74994332]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139889",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37719583, 49.74900030],
+                [13.37731310, 49.74942666],
+                [13.37747403, 49.74995440]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139890",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37519228, 49.74986487],
+                [13.37597118, 49.74994332],
+                [13.37656591, 49.75009010],
+                [13.37683793, 49.75007383],
+                [13.37711454, 49.75003038],
+                [13.37747403, 49.74995440],
+                [13.37898378, 49.74959921],
+                [13.37927131, 49.74953990],
+                [13.38045729, 49.74923078],
+                [13.38154527, 49.74903529]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903639",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37731390, 49.74942928],
+                [13.37859470, 49.74933829],
+                [13.37913199, 49.74927743]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139876",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37490962, 49.74919082],
+                [13.37584850, 49.74909278],
+                [13.37719583, 49.74900030],
+                [13.37899529, 49.74886403],
+                [13.38031554, 49.74874642],
+                [13.38061832, 49.74868406],
+                [13.38138154, 49.74856130]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139935",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37899529, 49.74886403],
+                [13.37913556, 49.74928824],
+                [13.37927131, 49.74953990]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.44763935",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37893572, 49.74887963],
+                [13.37729508, 49.74900426]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139926",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38041632, 49.74628463],
+                [13.38111980, 49.74643471],
+                [13.38149716, 49.74665131]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139929",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38149716, 49.74665131],
+                [13.38092468, 49.74704017]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001332",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38071908, 49.74636454],
+                [13.38111065, 49.74644806]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903637",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38041632, 49.74628463],
+                [13.38046538, 49.74651821],
+                [13.38066399, 49.74695614],
+                [13.38092468, 49.74704017]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903642",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37959888, 49.74623201],
+                [13.37964985, 49.74657048],
+                [13.37975462, 49.74700853]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903649",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37981168, 49.75225307],
+                [13.37959109, 49.75207827],
+                [13.37941205, 49.75196483],
+                [13.37935507, 49.75186924],
+                [13.37934184, 49.75174872],
+                [13.37938425, 49.75165239],
+                [13.37947558, 49.75150126]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883861",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37916608, 49.75200618],
+                [13.37930077, 49.75204678],
+                [13.37941872, 49.75210625]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883263",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37953995, 49.75149350],
+                [13.37985555, 49.75157241],
+                [13.38023931, 49.75163068]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448585",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37802139, 49.75031082],
+                [13.37824428, 49.75026459],
+                [13.37841922, 49.75039042],
+                [13.37854182, 49.75055797]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139904",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37854182, 49.75055797],
+                [13.37886980, 49.75061287],
+                [13.37922443, 49.75064785],
+                [13.37932314, 49.75065446],
+                [13.37942197, 49.75064663],
+                [13.37951789, 49.75063194],
+                [13.37955390, 49.75061793],
+                [13.37958063, 49.75060008],
+                [13.37963141, 49.75054218],
+                [13.37965178, 49.75051787],
+                [13.37975537, 49.75042714],
+                [13.37984718, 49.75040107],
+                [13.37995453, 49.75039298],
+                [13.38022175, 49.75038856],
+                [13.38040959, 49.75035785],
+                [13.38122644, 49.75008050],
+                [13.38125690, 49.75007124],
+                [13.38200669, 49.74993030]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139905",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38274328, 49.75023435],
+                [13.38272022, 49.74993738]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139883",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38092468, 49.74704017],
+                [13.38101458, 49.74706042],
+                [13.38132936, 49.74721981],
+                [13.38133521, 49.74724178],
+                [13.38132254, 49.74725961],
+                [13.38127884, 49.74731329],
+                [13.38129115, 49.74733591],
+                [13.38132712, 49.74736084],
+                [13.38167756, 49.74749948],
+                [13.38195490, 49.74758384],
+                [13.38231502, 49.74769060],
+                [13.38241256, 49.74773629],
+                [13.38265004, 49.74787774],
+                [13.38280321, 49.74798783],
+                [13.38303139, 49.74819362]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139892",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38053825, 49.74772563],
+                [13.38061142, 49.74772831],
+                [13.38071100, 49.74775029],
+                [13.38078574, 49.74776374],
+                [13.38085170, 49.74778590],
+                [13.38096867, 49.74785401],
+                [13.38109177, 49.74797012]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139894",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38109177, 49.74797012],
+                [13.38111386, 49.74796647],
+                [13.38114167, 49.74796285],
+                [13.38117854, 49.74796594],
+                [13.38120735, 49.74797381],
+                [13.38123581, 49.74798482],
+                [13.38125420, 49.74799696],
+                [13.38127017, 49.74801601],
+                [13.38127755, 49.74803502],
+                [13.38128028, 49.74805304],
+                [13.38127398, 49.74807812],
+                [13.38126072, 49.74810132],
+                [13.38124266, 49.74811453],
+                [13.38122817, 49.74812169],
+                [13.38120959, 49.74812956],
+                [13.38115299, 49.74814463]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139893",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38115299, 49.74814463],
+                [13.38114129, 49.74814469],
+                [13.38113402, 49.74814578],
+                [13.38109340, 49.74814120],
+                [13.38106340, 49.74813172],
+                [13.38103433, 49.74811536],
+                [13.38101555, 49.74809524],
+                [13.38100767, 49.74807443],
+                [13.38100536, 49.74805853],
+                [13.38100625, 49.74804034],
+                [13.38101004, 49.74802417],
+                [13.38102256, 49.74800798],
+                [13.38103978, 49.74799182],
+                [13.38106296, 49.74797887],
+                [13.38109177, 49.74797012]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139891",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38154527, 49.74903529],
+                [13.38147129, 49.74878732],
+                [13.38143234, 49.74865655],
+                [13.38138154, 49.74856130],
+                [13.38115299, 49.74814463]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139871",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38010959, 49.74789149],
+                [13.38031554, 49.74874642]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139927",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37874211, 49.74795430],
+                [13.37897678, 49.74797757],
+                [13.38010959, 49.74789149],
+                [13.38037886, 49.74783813],
+                [13.38053825, 49.74772563]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001329",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37897320, 49.74796387],
+                [13.37997949, 49.74788740]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139934",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37899529, 49.74886403],
+                [13.37874211, 49.74795430]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903636",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38053825, 49.74772563],
+                [13.38092468, 49.74704017]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139901",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38391107, 49.74629349],
+                [13.38318751, 49.74589959],
+                [13.38274735, 49.74571586],
+                [13.38235124, 49.74556670],
+                [13.38203821, 49.74546241],
+                [13.38137450, 49.74524216],
+                [13.38090055, 49.74501243],
+                [13.38060303, 49.74482260]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139881",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38041632, 49.74628463],
+                [13.38038300, 49.74611483],
+                [13.38037713, 49.74594649],
+                [13.38035675, 49.74513621],
+                [13.38035321, 49.74502750],
+                [13.38036027, 49.74499148],
+                [13.38039917, 49.74494337],
+                [13.38060303, 49.74482260]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903641",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37959888, 49.74623201],
+                [13.37951171, 49.74556520]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139930",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37786255, 49.74491258],
+                [13.37795453, 49.74550377],
+                [13.37816967, 49.74633463],
+                [13.37815253, 49.74639715]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001334",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38353028, 49.74606959],
+                [13.38319768, 49.74588852],
+                [13.38275752, 49.74570479],
+                [13.38246324, 49.74559398]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883251",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37459110, 49.75120094],
+                [13.37371277, 49.75130075],
+                [13.37402938, 49.75183583]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883252",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37526583, 49.75166603],
+                [13.37625180, 49.75165437]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883253",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37650091, 49.75159739],
+                [13.37668069, 49.75146004],
+                [13.37717710, 49.75142643],
+                [13.37794734, 49.75150552]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883260",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38168946, 49.75357189],
+                [13.38193522, 49.75287573]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883259",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38015805, 49.75338579],
+                [13.38168946, 49.75357189]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883266",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38168946, 49.75357189],
+                [13.38153357, 49.75408700],
+                [13.38135952, 49.75459717]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883267",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38135952, 49.75459717],
+                [13.37996870, 49.75447152]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883265",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38135952, 49.75459717],
+                [13.38141885, 49.75494697]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883877",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38141885, 49.75494697],
+                [13.38064048, 49.75528408]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883275",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37983753, 49.75476111],
+                [13.38006753, 49.75529549]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883875",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37740946, 49.75456914],
+                [13.37708869, 49.75439719]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883274",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38008371, 49.75553398],
+                [13.37992224, 49.75560017],
+                [13.37973764, 49.75566749]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883270",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37873465, 49.75500497],
+                [13.37785237, 49.75480856],
+                [13.37740946, 49.75456914]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883271",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37873465, 49.75500497],
+                [13.37855056, 49.75542961]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883273",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37855056, 49.75542961],
+                [13.37762508, 49.75526085]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883258",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38019984, 49.75263003],
+                [13.38015805, 49.75338579],
+                [13.38012013, 49.75383301],
+                [13.37991866, 49.75437789]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883873",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37752303, 49.75420969],
+                [13.37791811, 49.75424970]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883272",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37855056, 49.75542961],
+                [13.37845116, 49.75568291]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883269",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37898247, 49.75446530],
+                [13.37873465, 49.75500497]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883255",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37851301, 49.75253148],
+                [13.37786880, 49.75343524],
+                [13.37771760, 49.75360091],
+                [13.37744900, 49.75382409]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883268",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37912858, 49.75438963],
+                [13.37969529, 49.75444766]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883257",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37968583, 49.75240889],
+                [13.37938370, 49.75337568],
+                [13.37919388, 49.75402065],
+                [13.37906312, 49.75432350]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883254",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37794734, 49.75150552],
+                [13.37790830, 49.75175896]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883256",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37978637, 49.75248262],
+                [13.38007850, 49.75253414]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883859",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37864963, 49.75235657],
+                [13.37884136, 49.75210872]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883264",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38023931, 49.75163068],
+                [13.38061807, 49.75165768],
+                [13.38097603, 49.75162336]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883261",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38024927, 49.75245655],
+                [13.38117266, 49.75269580],
+                [13.38156528, 49.75281388],
+                [13.38193522, 49.75287573],
+                [13.38266466, 49.75298964],
+                [13.38344979, 49.75315466]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.50883262",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38023931, 49.75163068],
+                [13.38018938, 49.75195630],
+                [13.38011514, 49.75230513]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Roudná"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001325",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38736971, 49.74658544],
+                [13.38794715, 49.74670925],
+                [13.38829575, 49.74677632],
+                [13.38839459, 49.74679603],
+                [13.38845943, 49.74679170],
+                [13.38848423, 49.74675634]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139933",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38391107, 49.74629349],
+                [13.38423372, 49.74652607],
+                [13.38444621, 49.74671508],
+                [13.38452408, 49.74686984],
+                [13.38452502, 49.74698760],
+                [13.38457646, 49.74707251],
+                [13.38477094, 49.74712526]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139928",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38149716, 49.74665131],
+                [13.38198049, 49.74649359],
+                [13.38283945, 49.74638894],
+                [13.38391107, 49.74629349]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139878",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37959888, 49.74623201],
+                [13.37979736, 49.74622530],
+                [13.38009593, 49.74623468],
+                [13.38030603, 49.74625753],
+                [13.38041632, 49.74628463]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139877",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37815253, 49.74639715],
+                [13.37824410, 49.74633393],
+                [13.37959888, 49.74623201]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139870",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37837574, 49.74715777],
+                [13.37978521, 49.74707442],
+                [13.37995036, 49.74708078],
+                [13.38079749, 49.74703507],
+                [13.38092468, 49.74704017]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001328",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37591285, 49.74654320],
+                [13.37515253, 49.74661522]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578705",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37106405, 49.74534470],
+                [13.37267862, 49.74516555]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139931",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37594648, 49.74505550],
+                [13.37594691, 49.74523626],
+                [13.37610253, 49.74571086],
+                [13.37633371, 49.74637757],
+                [13.37647959, 49.74651706]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.44763937",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37616471, 49.74566323],
+                [13.37787743, 49.74553027]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139868",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37392736, 49.74582094],
+                [13.37480862, 49.74575664],
+                [13.37608446, 49.74564962],
+                [13.37795453, 49.74550377]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139880",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37267862, 49.74516555],
+                [13.37291295, 49.74514214],
+                [13.37340639, 49.74505877],
+                [13.37436510, 49.74477737],
+                [13.37497843, 49.74462730],
+                [13.37576130, 49.74453714]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903659",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37221006, 49.74432220],
+                [13.37057294, 49.74451969]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448584",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38347940, 49.74533066],
+                [13.38390708, 49.74557166],
+                [13.38459851, 49.74601394],
+                [13.38474909, 49.74614277]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903657",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36933124, 49.74647511],
+                [13.36666819, 49.74672828]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903660",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36780267, 49.74573740],
+                [13.36793035, 49.74653908]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903652",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37045309, 49.74539794],
+                [13.36649293, 49.74576249]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903656",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36943893, 49.74652292],
+                [13.36966378, 49.74734744]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903655",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36930439, 49.74559303],
+                [13.36933122, 49.74614299],
+                [13.36940466, 49.74638935]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903650",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36988043, 49.74722796],
+                [13.37014020, 49.74688955],
+                [13.37065481, 49.74632116]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903651",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.36952341, 49.74642495],
+                [13.37060988, 49.74612809]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna F"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578708",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37090676, 49.74634161],
+                [13.37099684, 49.74645706],
+                [13.37149939, 49.74756460],
+                [13.37165465, 49.74766701]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578707",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37173604, 49.74617682],
+                [13.37105314, 49.74626631],
+                [13.37090676, 49.74634161]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578709",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37165465, 49.74766701],
+                [13.37181326, 49.74758631],
+                [13.37272893, 49.74728814]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578711",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37284627, 49.74787221],
+                [13.37272893, 49.74728814]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.44763933",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37279080, 49.74740359],
+                [13.37289111, 49.74788521]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139896",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37383604, 49.74674000],
+                [13.37411712, 49.74745872],
+                [13.37414126, 49.74750847],
+                [13.37416879, 49.74753161],
+                [13.37422153, 49.74755221],
+                [13.37444692, 49.74833166]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.44763934",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37542722, 49.74745797],
+                [13.37563900, 49.74816003]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139874",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37444692, 49.74833166],
+                [13.37562798, 49.74823184],
+                [13.37686557, 49.74812470],
+                [13.37699777, 49.74808720]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139869",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37699777, 49.74808720],
+                [13.37695076, 49.74816309],
+                [13.37719583, 49.74900030]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139873",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37584850, 49.74909278],
+                [13.37562798, 49.74823184],
+                [13.37538751, 49.74742790],
+                [13.37508806, 49.74659798],
+                [13.37480862, 49.74575664]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139867",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37699777, 49.74808720],
+                [13.37673367, 49.74728335],
+                [13.37647959, 49.74651706],
+                [13.37660446, 49.74654490],
+                [13.37792602, 49.74644778],
+                [13.37815253, 49.74639715],
+                [13.37813731, 49.74644623],
+                [13.37837574, 49.74715777],
+                [13.37858428, 49.74784259],
+                [13.37874211, 49.74795430],
+                [13.37858283, 49.74795061],
+                [13.37699777, 49.74808720]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.44763943",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37853889, 49.74749521],
+                [13.37862592, 49.74773645]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139875",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37422153, 49.74755221],
+                [13.37538751, 49.74742790],
+                [13.37673367, 49.74728335]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139898",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37383604, 49.74674000],
+                [13.37382990, 49.74606784],
+                [13.37392736, 49.74582094]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001330",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37380035, 49.74665555],
+                [13.37379690, 49.74627802]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001327",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37506734, 49.74657543],
+                [13.37436263, 49.74664353]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Vyhrazené stání"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139872",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37647959, 49.74651706],
+                [13.37631917, 49.74648137],
+                [13.37508806, 49.74659798],
+                [13.37391793, 49.74671107],
+                [13.37383604, 49.74674000]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna A"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.52578706",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37173604, 49.74617682],
+                [13.37184676, 49.74599411],
+                [13.37192257, 49.74596228],
+                [13.37276782, 49.74588579]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139910",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37360786, 49.74072432],
+                [13.37145012, 49.74095206]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139906",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37360786, 49.74072432],
+                [13.37437145, 49.74063193],
+                [13.37511322, 49.74105868],
+                [13.37720170, 49.74109669],
+                [13.37943020, 49.74151146]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139914",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37360786, 49.74072432],
+                [13.37399049, 49.74207449]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139911",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37720170, 49.74109669],
+                [13.37735519, 49.74190301]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139913",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37735519, 49.74190301],
+                [13.37527440, 49.74201470],
+                [13.37399049, 49.74207449]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139907",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37511322, 49.74105868],
+                [13.37527440, 49.74201470],
+                [13.37534365, 49.74244971],
+                [13.37552634, 49.74343657],
+                [13.37555537, 49.74349448]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139909",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37181748, 49.74221428],
+                [13.37399049, 49.74207449]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139932",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37871353, 49.74319991],
+                [13.37893674, 49.74295656],
+                [13.37916388, 49.74234362],
+                [13.37943020, 49.74151146]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139912",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37735519, 49.74190301],
+                [13.37769232, 49.74337494]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139915",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37534365, 49.74244971],
+                [13.37350960, 49.74260428]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139908",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37981856, 49.74338604],
+                [13.38013993, 49.74164749]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139916",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37350960, 49.74260428],
+                [13.37195333, 49.74273031]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139900",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38128001, 49.74188803],
+                [13.38108000, 49.74256940],
+                [13.38094810, 49.74337609]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139918",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38299423, 49.74227336],
+                [13.38133107, 49.74186412],
+                [13.38128001, 49.74188803]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139917",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37350960, 49.74260428],
+                [13.37388126, 49.74375789]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139886",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37881661, 49.74335755],
+                [13.37981856, 49.74338604]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139885",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37241940, 49.74430023],
+                [13.37359707, 49.74381369],
+                [13.37388126, 49.74375789],
+                [13.37555537, 49.74349448],
+                [13.37769232, 49.74337494],
+                [13.37841969, 49.74333543]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139895",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37555537, 49.74349448],
+                [13.37576130, 49.74453714]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139879",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37576130, 49.74453714],
+                [13.37758172, 49.74463432],
+                [13.37789924, 49.74465127],
+                [13.37842136, 49.74459914],
+                [13.37979736, 49.74450038],
+                [13.38012786, 49.74444104]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.61903638",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37773163, 49.74351624],
+                [13.37758172, 49.74463432]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139899",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.37858367, 49.74343586],
+                [13.37852869, 49.74400568],
+                [13.37842136, 49.74459914]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139902",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38060303, 49.74482260],
+                [13.38044620, 49.74471454],
+                [13.38012786, 49.74444104],
+                [13.37996755, 49.74408996],
+                [13.37986417, 49.74380036],
+                [13.37981856, 49.74338604]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna B"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.63448583",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38094810, 49.74337609],
+                [13.38094603, 49.74373819],
+                [13.38101085, 49.74407057],
+                [13.38117971, 49.74438524],
+                [13.38138597, 49.74460113],
+                [13.38171661, 49.74477337],
+                [13.38220494, 49.74494249],
+                [13.38284883, 49.74511760],
+                [13.38331574, 49.74527155],
+                [13.38347940, 49.74533066]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139888",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38094810, 49.74337609],
+                [13.38304405, 49.74338383],
+                [13.38385664, 49.74337344],
+                [13.38452823, 49.74343018],
+                [13.38506480, 49.74357609],
+                [13.38595923, 49.74394453]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139903",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38347940, 49.74533066],
+                [13.38393428, 49.74488482]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139937",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38827604, 49.73723528],
+                [13.38917751, 49.73778980],
+                [13.38997444, 49.73833581],
+                [13.39077996, 49.73886953],
+                [13.39184076, 49.73956911]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036541",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38846694, 49.73926745],
+                [13.38997444, 49.73833581]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036539",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38763453, 49.74208980],
+                [13.38897748, 49.74127301],
+                [13.39031528, 49.74046834],
+                [13.39184076, 49.73956911]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139922",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38647455, 49.74054962],
+                [13.38790143, 49.74053737],
+                [13.38805316, 49.74050129],
+                [13.38926053, 49.73979558],
+                [13.38846694, 49.73926745],
+                [13.38769744, 49.73871563],
+                [13.38723269, 49.73840897]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139936",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38790143, 49.74053737],
+                [13.38870006, 49.74107688],
+                [13.38897950, 49.74127444]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036543",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38552784, 49.74178170],
+                [13.38581768, 49.74183192]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036544",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38552784, 49.74178170],
+                [13.38537610, 49.74140595],
+                [13.38527862, 49.74133789]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139919",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38299423, 49.74227336],
+                [13.38302375, 49.74230885],
+                [13.38304405, 49.74338383]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna C"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036538",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38660062, 49.74122414],
+                [13.38837428, 49.74120630],
+                [13.38847966, 49.74119661],
+                [13.38855999, 49.74117277],
+                [13.38870006, 49.74107688]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139923",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38769744, 49.73871563],
+                [13.38643986, 49.73949695]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139924",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38846694, 49.73926745],
+                [13.38692637, 49.74019502],
+                [13.38647455, 49.74054962]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139938",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38769744, 49.73871563],
+                [13.38917751, 49.73778980]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036540",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38926053, 49.73979558],
+                [13.39077996, 49.73886953]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036542",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39031353, 49.74046939],
+                [13.38926053, 49.73979558]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001315",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39075845, 49.74629287],
+                [13.39072955, 49.74618696],
+                [13.39061390, 49.74604249],
+                [13.39004788, 49.74560106]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001307",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39004788, 49.74560106],
+                [13.39032322, 49.74547599],
+                [13.39044221, 49.74541918],
+                [13.39054540, 49.74539222],
+                [13.39064102, 49.74537878],
+                [13.39083994, 49.74537550],
+                [13.39096047, 49.74538734],
+                [13.39112938, 49.74541821],
+                [13.39123907, 49.74545754],
+                [13.39129842, 49.74548621]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001319",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38822357, 49.74588080],
+                [13.38784241, 49.74556459]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001316",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38784241, 49.74556459],
+                [13.38755504, 49.74548901],
+                [13.38715872, 49.74538215],
+                [13.38711153, 49.74533655],
+                [13.38712388, 49.74524474],
+                [13.38731292, 49.74468899],
+                [13.38738592, 49.74465388],
+                [13.38784020, 49.74471968],
+                [13.38835731, 49.74487339]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001323",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38691102, 49.74422658],
+                [13.38694254, 49.74454157],
+                [13.38689138, 49.74493298],
+                [13.38687506, 49.74507777],
+                [13.38675968, 49.74537096],
+                [13.38662262, 49.74556202]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001305",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38847783, 49.74464916],
+                [13.38691102, 49.74422658]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.40139925",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38601090, 49.74263705],
+                [13.38624802, 49.74264816],
+                [13.38638574, 49.74268332],
+                [13.38761226, 49.74304891]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.56036545",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38662050, 49.74203615],
+                [13.38697798, 49.74209468],
+                [13.38734868, 49.74216287]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna Petrohrad"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001306",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39004788, 49.74560106],
+                [13.38858568, 49.74470733],
+                [13.38847783, 49.74464916]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001317",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38784241, 49.74556459],
+                [13.38789725, 49.74552661],
+                [13.38835731, 49.74487339]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001318",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38835731, 49.74487339],
+                [13.38847783, 49.74464916]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001326",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38822357, 49.74588080],
+                [13.38867879, 49.74565117]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001324",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38662262, 49.74556202],
+                [13.38646141, 49.74570775],
+                [13.38643567, 49.74574516],
+                [13.38645167, 49.74581282],
+                [13.38660641, 49.74587761],
+                [13.38773916, 49.74621892]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001313",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39164102, 49.74687719],
+                [13.39248413, 49.74643009]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001314",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39120726, 49.74651505],
+                [13.39164102, 49.74687719]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001312",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39382379, 49.74575075],
+                [13.39366950, 49.74586340],
+                [13.39248413, 49.74643009]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001309",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39248413, 49.74643009],
+                [13.39168053, 49.74579498]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001321",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39075845, 49.74629287],
+                [13.39067604, 49.74625815],
+                [13.39058556, 49.74624448],
+                [13.39049301, 49.74625313],
+                [13.38947091, 49.74658988],
+                [13.38930842, 49.74659394],
+                [13.38895648, 49.74649922],
+                [13.38870994, 49.74628350]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001311",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39265376, 49.74545606],
+                [13.39382379, 49.74575075]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001322",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38870994, 49.74628350],
+                [13.39004788, 49.74560106]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001310",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39168053, 49.74579498],
+                [13.39265376, 49.74545606]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001308",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.39129842, 49.74548621],
+                [13.39165932, 49.74577454],
+                [13.39168053, 49.74579498]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }, {
+        "type": "Feature",
+        "id": "parkovacizony.58001320",
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [13.38870994, 49.74628350],
+                [13.38822357, 49.74588080]
+            ]
+        },
+        "properties": {
+            "OBJEKT": "Parkovací zóna",
+            "NAZEV": "Zóna D"
+        }
+    }]
+}
