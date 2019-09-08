@@ -1,0 +1,55 @@
+PUT /offenses
+{
+  "settings": {
+    "number_of_shards": 1
+  },
+  "mappings": {
+    "properties": {
+      "@timestamp": {
+        "type": "date"
+      },
+      "category": {
+        "type": "keyword"
+      },
+      "code": {
+        "type": "long"
+      },
+      "datetime": {
+        "type": "date",
+        "format": "yyyy-MM-dd HH:mm:ss"
+      },
+      "event": {
+        "type": "keyword",
+        "fields": {
+          "raw": {
+            "type": "text"
+          }
+        }
+      },
+      "house_no": {
+        "type": "text"
+      },
+      "id": {
+        "type": "long"
+      },
+      "location": {
+        "type": "geo_point"
+      },
+      "object_type": {
+        "type": "keyword"
+      },
+      "place": {
+        "type": "keyword"
+      },
+      "street": {
+        "type": "text"
+      },
+      "superior": {
+        "type": "text"
+      },
+      "type": {
+        "type": "keyword"
+      }
+    }
+  }
+}
